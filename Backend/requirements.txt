@@ -1,0 +1,14 @@
+# Core ML
+torch
+transformers
+
+# FastAPI backend
+fastapi
+uvicorn
+pydantic
+
+# CORS handling
+python-multipart
+
+# Streamlit frontend (optional, standalone UI)
+streamlit
